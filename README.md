@@ -21,7 +21,7 @@ print (total)
 
 
 
-
+![Figure 1](https://eraser.imgix.net/workspaces/HMDx0X5vHIsJ6J46rKu4/5M4JoTQ12XXzzdLvAlpSTqEBOXq1/---figure---ZOD26hcLct62nS9pj4kzCg.svg?ixlib=js-3.7.0 "Figure 1")
 
 
 
